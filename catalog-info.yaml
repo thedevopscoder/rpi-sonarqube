@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: hi-james
-  description: Faster Payments service
+  name: clear-route-demo
+  description: Faster Payment service
   tags:
     - go
     - website
